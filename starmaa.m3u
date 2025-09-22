@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="starmaa" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmaa.png" group-title="Entertainment",Star Maa
+https://live.dinesh29.com.np/stream/jiotvplus/starmaa/master.m3u8
+#EXTINF:-1 tvg-id="maamovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maamovies.png" group-title="Movies",Maa Movies
+https://live.dinesh29.com.np/stream/jiotvplus/maamovies/master.m3u8
+#EXTINF:-1 tvg-id="maagold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maagold.png" group-title="Movies",Maa Gold
+https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
